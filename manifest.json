@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Lindembergue Despesas",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Lindembergue Despesas",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icone..jpg",
+      "type": "image/png",
+      "sizes": "520x520"
+    }
+  ]
+}
