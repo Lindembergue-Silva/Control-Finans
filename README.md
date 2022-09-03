@@ -7,4 +7,4 @@ Controle de receitas e despesas desenvolvido com JavaScript.
 
 Dá aquela força pro canal.
 
-![Positivo](https://toppng.com/show_download/175771/positivo-sinal-positivo-e-negativo/large)
+![positivo](https://toppng.com/show_download/175771/positivo-sinal-positivo-e-negativo/large)
